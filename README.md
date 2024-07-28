@@ -23,5 +23,5 @@ The model is trained on historical stock price data with the following steps:
 The model is evaluated using Mean Squared Error (MSE) and achieves an accuracy of approximately 90%. The evaluation is performed on a separate test dataset that was not seen during training.
 
 ## Conclusion
-The LSTM and RNN model demonstrates strong performance in predicting Google stock price prediction, achieving around 90% accuracy. This model can be further improved and adapted for other stock price pattern predictions.
+The LSTM and RNN model demonstrates strong performance in predicting Google stock price pattern prediction, achieving around 90% accuracy. This model can be further improved and adapted for other stock price pattern predictions.
 
